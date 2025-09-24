@@ -20,7 +20,7 @@
 
 ## 📸Preview-2
 
-![Project view](https://github.com/asiya2123/project2/blob/fc2330ff5851eec17d43f432a744e2ac9c1e48bb/Screenshot%202025-09-24%20131631.png)
+![Project view](https://github.com/bhavani-mhrl/clone-amazon-project/blob/24f2384a088417f9679e75507913799953389f44/Screenshot%202025-09-24%20160720.png)
 
 ---
 
