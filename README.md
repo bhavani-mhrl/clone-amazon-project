@@ -1,13 +1,21 @@
-# 🌐 Amazon_clone Project
+# 🛒 Amazon_clone Project
 
 ## 📌 **Overview**
 
-- **Built a Frontend Project Using amazon Clone**
+- **This project is a static Amazon-inspired homepage clone built entirely with HTML and CSS, designed to replicate the look and feel of the original Amazon website. It showcases frontend layout skills, visual structuring, and responsive design techniques without any JavaScript or backend functionality.**
 
-## 🔑 Why i have built this!
+🧩 Key Features
+- Fully structured homepage layout with header, navigation bar, hero section, and product grid
+- Styled buttons, banners, and product cards using modern CSS
+- Organized sections for deals, categories, and featured items
+- Clean codebase with semantic HTML and reusable CSS classes
 
-- **Enhnace-Skills** - Enhance Skills To Improve and Gain Knowledge
-- **Creative Thinking** - User friendly Interactive pages 
+## 🎯 Why i have built this!
+
+- Practice layout replication and pixel-perfect design using HTML/CSS
+- Strengthen understanding of flexbox, grid, and responsive styling
+- Serve as a portfolio piece demonstrating frontend precision and creativity
+
 
 ---
 
@@ -32,8 +40,8 @@
 
 ## 💻 Technologies Used
 
-- **HTML** – Provides the structure and content of the website.
-- **CSS** – Styles the website for an engaging user experience.
+- **HTML5** – Provides the structure and content of the website.
+- **CSS3** – Styles the website for an engaging user experience.
 ---
 
 
